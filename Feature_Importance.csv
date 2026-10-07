@@ -1,0 +1,18 @@
+Feature,Importance
+lunch_standard,0.1043385752321728
+test preparation course_completed,0.08904698780993762
+lunch_free/reduced,0.07524616329773516
+test preparation course_none,0.06437400504741533
+parental level of education_high school,0.06261887011751474
+race/ethnicity_group B,0.05955165681481418
+race/ethnicity_group E,0.05728684664998505
+parental level of education_bachelor's degree,0.05623225212081461
+gender_male,0.05599462696147129
+gender_female,0.05501860523419673
+race/ethnicity_group D,0.05160774315103364
+race/ethnicity_group C,0.05066518903566071
+parental level of education_some high school,0.05038055687056054
+parental level of education_associate's degree,0.04768092814915182
+race/ethnicity_group A,0.04389119840820643
+parental level of education_some college,0.03967434077161056
+parental level of education_master's degree,0.03639145432771866

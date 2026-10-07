@@ -1,0 +1,40 @@
+
+STUDENT PERFORMANCE ANALYSIS & PREDICTION
+
+Dataset:
+- 1,000 student records
+- 8 original features
+
+Data Analysis:
+- Checked dataset structure
+- Checked missing values
+- Calculated descriptive statistics
+- Created average score
+- Created performance categories
+
+EDA & Visualization:
+- Gender performance comparison
+- Test preparation comparison
+- Subject average comparison
+- Math score distribution
+- Math vs Reading relationship
+- Reading vs Writing relationship
+- Correlation heatmap
+- Feature importance
+
+Machine Learning:
+- Linear Regression baseline
+- Random Forest Regressor
+- Train/Test split: 80/20
+- Model evaluation using MAE, MSE and R²
+
+Application:
+- Interactive Gradio prediction app
+- Predicted average score
+- Performance level
+
+Saved Files:
+- student_performance_random_forest.pkl
+- student_performance_random_forest_encoder.pkl
+- Student_Performance_Analyzed.csv
+- Feature_Importance.csv
