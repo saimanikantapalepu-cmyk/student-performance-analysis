@@ -106,3 +106,15 @@ This project provides practical experience with Python, data analysis, visualiza
 - `Student_Performance_Analyzed.csv` — Analyzed dataset
 - `Feature_Importance.csv` — Feature importance results
 - `Student_Performance_Project_Summary.txt` — Project summary
+## How to Run
+
+1. Clone this repository.
+2. Install the required Python libraries.
+3. Open `Student_Performance_Analysis.ipynb` in Jupyter Notebook.
+4. Run the notebook cells from top to bottom.
+5. Run the Gradio application to make predictions.
+
+### Install Required Libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn joblib gradio
